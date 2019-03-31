@@ -1,5 +1,7 @@
 # Practica Estadistica
 
-## Practica 1
-## Practica 2
-La explicación de la mismas se encuentra en los comentarios y notas anexas del notebook
+Se incluye en el repositorio tanto los notebook sin resolver como los resueltos (para consultar en el futuro)
+
+## Practica1- Entregable.ipynb y Practica 2- Entregable.ipynb
+
+La explicación de todos los pasos a realizar para la solución de la mismas se encuentra en los comentarios y lineas notas anexas del notebook.
